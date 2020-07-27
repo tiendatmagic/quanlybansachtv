@@ -1,0 +1,28 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\QLS\bin\Debug\QLS.exe.config
+C:\Users\Administrator\AppData\Local\Temporary Projects\QLS\bin\Debug\QLS.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\QLS\bin\Debug\QLS.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\QLS\obj\Debug\QLS.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\QLS\obj\Debug\QLS.FmQuanLS.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\QLS\obj\Debug\QLS.Properties.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\QLS\obj\Debug\QLS.csproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\QLS\obj\Debug\QLS.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\QLS\obj\Debug\QLS.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\QLS\QLS\bin\Debug\QLS.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\QLS\QLS\obj\Debug\QLS.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\QLS\QLS\obj\Debug\QLS.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\QLS\QLS\bin\Debug\QLS.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\QLS\QLS\bin\Debug\QLS.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\QLS\QLS\obj\Debug\QLS.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\QLS\QLS\obj\Debug\QLS.FmQuanLS.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\QLS\QLS\obj\Debug\QLS.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\QLS\QLS\obj\Debug\QLS.csproj.GenerateResource.Cache
+E:\a\QLS\QLS\bin\Debug\QLS.exe.config
+E:\a\QLS\QLS\bin\Debug\QLS.exe
+E:\a\QLS\QLS\bin\Debug\QLS.pdb
+E:\a\QLS\QLS\obj\Debug\QLS.csprojAssemblyReference.cache
+E:\a\QLS\QLS\obj\Debug\QLS.FmQuanLS.resources
+E:\a\QLS\QLS\obj\Debug\QLS.Properties.Resources.resources
+E:\a\QLS\QLS\obj\Debug\QLS.csproj.GenerateResource.cache
+E:\a\QLS\QLS\obj\Debug\QLS.csproj.CoreCompileInputs.cache
+E:\a\QLS\QLS\obj\Debug\QLS.exe
+E:\a\QLS\QLS\obj\Debug\QLS.pdb
